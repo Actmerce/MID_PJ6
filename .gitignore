@@ -1,0 +1,8 @@
+*.pyc
+.idea/*
+local_test/*
+local_train/*
+test_cls/*
+train_cls/*
+preview/*
+train/*
