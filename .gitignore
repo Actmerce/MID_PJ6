@@ -6,3 +6,4 @@ test_cls/*
 train_cls/*
 preview/*
 train/*
+*.zip
