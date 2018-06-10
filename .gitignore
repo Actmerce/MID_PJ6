@@ -8,3 +8,4 @@ preview/*
 train/*
 *.zip
 *.h5
+t_dict/*
